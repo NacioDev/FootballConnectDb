@@ -1,0 +1,125 @@
+{
+    "categories": {
+        "1": {
+            "name": "Novato",
+            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/earth.png",
+            "minScore": 0,
+            "levels": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        "2": {
+            "name": "Amateur",
+            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/jupiter.png",
+            "minScore": 1,
+            "levels": [
+                2,
+                4
+            ]
+        },
+        "3": {
+            "name": "Semi-pro",
+            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/mercury.png",
+            "minScore": 3,
+            "levels": [
+                1,
+                3
+            ]
+        },
+        "4": {
+            "name": "Pro",
+            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/neptune.png",
+            "minScore": 6,
+            "levels": [
+                4,
+                3,
+                2,
+                1
+            ]
+        },
+        "5": {
+            "name": "Leyenda",
+            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/mars.png",
+            "minScore": 10,
+            "levels": [
+                4,
+                3,
+                2,
+                1
+            ]
+        }
+    },
+    "levels": {
+        "1": {
+            "initialId": 28003,
+            "lastId": 8198,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "2": {
+            "initialId": 3455,
+            "lastId": 68290,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "3": {
+            "initialId": 38253,
+            "lastId": 342229,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "4": {
+            "initialId": 25557,
+            "lastId": 88755,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 15
+        },
+        "5": {
+            "initialId": 28003,
+            "lastId": 8198,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "6": {
+            "initialId": 3455,
+            "lastId": 68290,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "7": {
+            "initialId": 38253,
+            "lastId": 342229,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "8": {
+            "initialId": 25557,
+            "lastId": 88755,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 15
+        }
+    }
+}
