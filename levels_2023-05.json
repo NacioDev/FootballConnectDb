@@ -20,8 +20,8 @@
             "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/jupiter.png",
             "minScore": 1,
             "levels": [
-                1,
                 2,
+                1,
                 4
             ]
         },
