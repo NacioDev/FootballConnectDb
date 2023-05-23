@@ -5,6 +5,7 @@
             "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/earth.png",
             "minScore": 0,
             "levels": [
+                1,
                 2,
                 3,
                 4,
