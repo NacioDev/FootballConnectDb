@@ -2,7 +2,7 @@
     "categories": {
         "1": {
             "name": "Novato",
-            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/earth.png",
+            "img": "",
             "minScore": 0,
             "levels": [
                 2,
@@ -17,7 +17,7 @@
         },
         "2": {
             "name": "Amateur",
-            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/jupiter.png",
+            "img": "",
             "minScore": 1,
             "levels": [
                 2,
@@ -26,7 +26,7 @@
         },
         "3": {
             "name": "Semi-pro",
-            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/mercury.png",
+            "img": "",
             "minScore": 3,
             "levels": [
                 1,
@@ -35,7 +35,7 @@
         },
         "4": {
             "name": "Pro",
-            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/neptune.png",
+            "img": "",
             "minScore": 6,
             "levels": [
                 4,
@@ -46,7 +46,7 @@
         },
         "5": {
             "name": "Leyenda",
-            "img": "https://raw.githubusercontent.com/Krishak15/Planets/master/assets/mars.png",
+            "img": "",
             "minScore": 10,
             "levels": [
                 4,
