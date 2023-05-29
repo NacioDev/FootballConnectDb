@@ -195,8 +195,8 @@
             "minScore": 0
         },
         "1001": {
-            "initialId": 38253,
-            "lastId": 18922,
+            "initialId": 18922,
+            "lastId": 38253,
             "isInitialPlayer": true,
             "isLastPlayer": true,
             "steps": 4,
