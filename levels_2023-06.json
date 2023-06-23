@@ -10,8 +10,8 @@
                 3,
                 4,
                 1001,
-                1002,
                 1003,
+                1002,
                 1004,
                 1006,
                 1007,
@@ -258,8 +258,8 @@
             "minScore": 0
         },
         "1009": {
-            "initialId": 571020,
-            "lastId": 59323,
+            "initialId": 16306,
+            "lastId": 234509,
             "isInitialPlayer": true,
             "isLastPlayer": true,
             "steps": 4,
