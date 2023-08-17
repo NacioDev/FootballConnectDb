@@ -1,7 +1,7 @@
 {
     "categories": {
         "1": {
-            "name": "Champions",
+            "name": "Novato",
             "img": "",
             "minScore": 0,
             "levels": [
@@ -18,7 +18,7 @@
             ]
         },
         "2": {
-            "name": "Europa League",
+            "name": "Amateur",
             "img": "",
             "minScore": 0,
             "levels": [
