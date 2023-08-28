@@ -14,17 +14,7 @@
                 7,
                 8,
                 9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                10
             ]
         },
         "2": {
@@ -41,17 +31,7 @@
                 107,
                 108,
                 109,
-                110,
-                111,
-                112,
-                113,
-                114,
-                115,
-                116,
-                117,
-                118,
-                119,
-                120
+                110
             ]
         }
     },
@@ -101,7 +81,7 @@
             "lastId": 27992,
             "isInitialPlayer": true,
             "isLastPlayer": true,
-            "steps": 6,
+            "steps": 4,
             "minScore": 8
         },
         "7": {
@@ -135,87 +115,6 @@
             "isLastPlayer": true,
             "steps": 4,
             "minScore": 20
-        },
-        
-        "11": {
-            "initialId": 466810,
-            "lastId": 200512,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 23
-        },
-        "12": {
-            "initialId": 640428,
-            "lastId": 580195,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 26
-        },
-        "13": {
-            "initialId": 105470,
-            "lastId": 238223,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 30
-        },
-        "14": {
-            "initialId": 282411,
-            "lastId": 338424,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 33
-        },
-        "15": {
-            "initialId": 431755,
-            "lastId": 401530,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 36
-        },
-        "16": {
-            "initialId": 186590,
-            "lastId": 357164,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 40
-        },
-        "17": {
-            "initialId": 357662,
-            "lastId": 581678,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 43
-        },
-        "18": {
-            "initialId": 102558,
-            "lastId": 392085,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 46
-        },
-        "19": {
-            "initialId": 107010,
-            "lastId": 192735,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 50
-        },
-        "20": {
-            "initialId": 35518,
-            "lastId": 15799,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 53
         },
 
         "101": {
@@ -280,7 +179,7 @@
             "isInitialPlayer": true,
             "isLastPlayer": true,
             "steps": 4,
-            "minScore": 25
+            "minScore": 23
         },
         "109": {
             "initialId": 95810,
@@ -288,7 +187,7 @@
             "isInitialPlayer": true,
             "isLastPlayer": true,
             "steps": 4,
-            "minScore": 28
+            "minScore": 25
         },
         "110": {
             "initialId": 240306,
@@ -296,88 +195,7 @@
             "isInitialPlayer": true,
             "isLastPlayer": true,
             "steps": 4,
-            "minScore": 31
-        },
-
-        "111": {
-            "initialId": 39152,
-            "lastId": 225020,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 35
-        },
-        "112": {
-            "initialId": 126664,
-            "lastId": 293385,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 38
-        },
-        "113": {
-            "initialId": 262396,
-            "lastId": 40372,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 6,
-            "minScore": 41
-        },
-        "114": {
-            "initialId": 142021,
-            "lastId": 333241,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 45
-        },
-        "115": {
-            "initialId": 93128,
-            "lastId": 39983,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 48
-        },
-        "116": {
-            "initialId": 203496,
-            "lastId": 32467,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 51
-        },
-        "117": {
-            "initialId": 119228,
-            "lastId": 811779,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 55
-        },
-        "118": {
-            "initialId": 161011,
-            "lastId": 504215,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 58
-        },
-        "119": {
-            "initialId": 193082,
-            "lastId": 946883,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 60
-        },
-        "120": {
-            "initialId": 166237,
-            "lastId": 648195,
-            "isInitialPlayer": true,
-            "isLastPlayer": true,
-            "steps": 4,
-            "minScore": 62
+            "minScore": 26
         }
     }
 }
